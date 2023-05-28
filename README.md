@@ -53,3 +53,13 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 ## Mettre la carte SD dans la TX16S
 
 + **T4+POWER+T1**
+
+## Mise à du MULTI Module
+
+https://downloads.multi-module.org/
+
++ Download ***mm-stm-serial-taer-v1.3.3.20.bin***
++ Copier le contenu **FIRMWARE**  sur la carte SD
+![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/40ff1143-2560-489d-bb05-7b9d019bf2e5)
+
+

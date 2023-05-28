@@ -76,7 +76,8 @@ https://downloads.multi-module.org/
 + Paramètrage dans Radio Settings > Materiel
 * Calibrage **des manches, des sliders S1, S2, LS, RS et des boutons 1-6**
 
-## Lien pour Bug connu
+## Lien pour Bugs connus
 
-+ Switch mal identifier
++ Switch mal identifier : https://frskytaranis.forumactif.org/t13503-tx16s-sous-edgetx-2-7-1-non-des-interrupteurs-non-affiche
++ autres ....
 

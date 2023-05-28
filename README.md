@@ -8,3 +8,7 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 
 + Enveler la carte SD de la TX16
 + Copier sur contenu dans un Dossier MASDTX16S sur le bureau
+
+## Aller le GitHub de EdgeTX
+
+https://github.com/EdgeTX

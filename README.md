@@ -15,22 +15,22 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 https://github.com/EdgeTX
 
 
-https://github.com/EdgeTX/edgetx-sdcard (sous release)
+https://github.com/EdgeTX/edgetx-sdcard (sous release à droite)
 
 + Download  c480x272.zip (pour TX16S)
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire CARD-SD
 
-https://github.com/EdgeTX/edgetx-sdcard-sounds (release)
+https://github.com/EdgeTX/edgetx-sdcard-sounds (sous release à droite)
 
 + Download edgetx-sdcard-sounds-fr-2.8.0.zip 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire SOUNDS
 
-https://github.com/EdgeTX/themes
+https://github.com/EdgeTX/themes (sous release à droite)
 
 + Download edgetx-themes.zip 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire THEMES
 
-https://githubcom/EdgeTX/edgetx
+https://githubcom/EdgeTX/edgetx (sous release à droite)
 
-+ Download edgetx-themes.zip 
-+ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire THEMES
++ Download edgetx-cpn-win64-v2.8.4.zip 
++ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire COMPAGNION

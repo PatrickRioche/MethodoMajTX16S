@@ -66,9 +66,17 @@ https://downloads.multi-module.org/
 + Paramètrage dans Radio Settings > Config Radio
 * Ordre des voies préfére : **GAFD**
 * Mode : **1 Gauche = Dir+Prf**
-+ Paramètrage dans Radio Settings > Materiel
-* Calibrage **des manches, des sliders S1, S2, LS, RS et des boutons 1-6**
 + Paramètrage dans Radio Settings > Fonctions Globales
 * GF1 : **ON Volume S1**
++ Paramètrage dans Radio Settings > Ecolage
+* **Gaz = CH3 100%**
+* **Ail = CH1 100%**
+* **Prf = CH2 100%**
+* **Dir = CH4 100%**
++ Paramètrage dans Radio Settings > Materiel
+* Calibrage **des manches, des sliders S1, S2, LS, RS et des boutons 1-6**
 
+## Lien pour Bug connu
+
++ Switch mal identifier
 

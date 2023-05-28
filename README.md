@@ -48,4 +48,6 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 
 ## Recopier les dossiers de l'ancienne carte SD
 
++ Copier les répertoires sur le carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/e46d8bb5-17ca-453e-a159-e95deea0e846)
+
 

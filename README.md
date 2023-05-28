@@ -30,3 +30,7 @@ https://github.com/EdgeTX/themes
 + Download edgetx-themes.zip 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire THEMES
 
+https://githubcom/EdgeTX/edgetx
+
++ Download edgetx-themes.zip 
++ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire THEMES

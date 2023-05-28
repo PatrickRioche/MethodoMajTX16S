@@ -41,5 +41,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 
 ## Ecraser la carte SD
 
-+ Copier le contenue **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)
-
++ Copier le contenu **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)
++ Copier le contenu **SOUNDS**  sur la carte SD
++ Copier le contenu **THEMES**  sur la carte SD
++ Copier le contenu **FIREWARE**  sur la carte SD

@@ -36,7 +36,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **COMPAGNION**
 + Aller Custom/multilingual builds > Multilingual builds are available 
 + Download ***tx16s-lang-v2.8.4.zip***
-+ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **FIREWARE**
++ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **FIRMWARE**
 + aucune le fichier ***tx16s-FR-17692e2.bin***
 
 ## Ecraser la carte SD
@@ -44,4 +44,8 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 + Copier le contenu **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)
 + Copier le contenu **SOUNDS**  sur la carte SD
 + Copier le contenu **THEMES**  sur la carte SD
-+ Copier le contenu **FIREWARE**  sur la carte SD
++ Copier le contenu **FIRMWARE**  sur la carte SD
+
+## Recopier les dossiers de l'ancienne carte SD
+
+

@@ -30,7 +30,7 @@ https://github.com/EdgeTX/themes (sous release à droite)
 + Download ***edgetx-themes.zip*** 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **THEMES**
 
-https://githubcom/EdgeTX/edgetx (sous release à droite)
+https://github.com/EdgeTX/edgetx (sous release à droite)
 
 + Download ***edgetx-cpn-win64-v2.8.4.zip*** 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **COMPAGNION**

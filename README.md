@@ -35,4 +35,4 @@ https://githubcom/EdgeTX/edgetx (sous release à droite)
 + Download edgetx-cpn-win64-v2.8.4.zip 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire COMPAGNION
 + Aller Custom/multilingual builds > Multilingual builds are available 
-
++ Download tx16s-lang-v2.8.4.zip 

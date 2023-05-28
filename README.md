@@ -14,10 +14,11 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 
 https://github.com/EdgeTX
 
-Copier 
 
 https://github.com/EdgeTX/edgetx-sdcard (sous release)
 
-+ Download  c480x272.zip
-+ dezipper sous 
++ Download  c480x272.zip (pour TX16S)
++ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire CARD-SD
+
+https://github.com/EdgeTX/edgetx-sdcard-sounds (release)
 

@@ -61,4 +61,8 @@ https://downloads.multi-module.org/
 + Download ***mm-stm-serial-taer-v1.3.3.20.bin***
 + Copier le contenu **FIRMWARE**  sur la carte SD
 
+## Ne pas oublier Calibrage des manches, des Sliders S1, S2, LS, RS et des boutons 1-6
+
+
+
 

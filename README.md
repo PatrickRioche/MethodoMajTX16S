@@ -64,11 +64,11 @@ https://downloads.multi-module.org/
 ## Ne pas oublier 
 
 + Paramètrage dans Radio Settings > Config Radio
-+   Ordre des voies préfére : **GAFD**
-+   Mode : **1 Gauche = Dir+Prf**
+* Ordre des voies préfére : **GAFD**
+* Mode : **1 Gauche = Dir+Prf**
 + Paramètrage dans Radio Settings > Materiel
-+   Calibrage des manches, des Sliders S1, S2, LS, RS et des boutons 1-6
+* Calibrage **des manches, des sliders S1, S2, LS, RS et des boutons 1-6**
 + Paramètrage dans Radio Settings > Fonctions Globales
-+   GF1 : ON Volume S1
+* GF1 : **ON Volume S1**
 
 

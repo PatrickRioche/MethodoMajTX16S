@@ -37,3 +37,4 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 + Aller Custom/multilingual builds > Multilingual builds are available 
 + Download ***tx16s-lang-v2.8.4.zip***
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire **FIREWARE**
++ aucune le fichier ***tx16s-FR-17692e2.bin***

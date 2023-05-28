@@ -25,5 +25,8 @@ https://github.com/EdgeTX/edgetx-sdcard-sounds (release)
 + Download edgetx-sdcard-sounds-fr-2.8.0.zip 
 + dezipper sous le dossier **SDTX16S-APRES** sous le répertoire SOUNDS
 
+https://github.com/EdgeTX/themes
 
++ Download edgetx-themes.zip 
++ dezipper sous le dossier **SDTX16S-APRES** sous le répertoire THEMES
 

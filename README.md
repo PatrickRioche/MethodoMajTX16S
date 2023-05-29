@@ -7,8 +7,8 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 # Procédure de maj de la TX16S avec EdgeTX.
 
 + Enveler la carte SD de la TX16S
-+ Creer le dossier **SDTX16S-NEW** sur le bureau
-+ Copier sur contenu de la carte SD de la TX16S dans le dossier **SDTX16S-NEW** dans un répertoire **SAV-SD-TX16S** sur le bureau
++ Creer le dossier **SD-TX16S-NEW** sur le bureau
++ Copier sur contenu de la carte SD de la TX16S dans le dossier **SD-TX16S-NEW** dans un répertoire **SAV-SD-TX16S** sur le bureau
 
 ## Aller le GitHub de EdgeTX
 
@@ -18,28 +18,30 @@ https://github.com/EdgeTX
 https://github.com/EdgeTX/edgetx-sdcard (sous release à droite)
 
 + Download ***c480x272.zip*** (pour TX16S)
-+ dezipper sous le dossier **SDTX16S-NEW** sous le répertoire **CARD-SD**
++ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **CARD-SD**
 
 https://github.com/EdgeTX/edgetx-sdcard-sounds (sous release à droite)
 
 + Download ***edgetx-sdcard-sounds-fr-2.8.0.zip***
-+ dezipper sous le dossier **SDTX16S-NEW** sous le répertoire **SOUNDS**
++ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **SOUNDS**
 
 https://github.com/EdgeTX/themes (sous release à droite)
 
 + Download ***edgetx-themes.zip*** 
-+ dezipper sous le dossier **SDTX16S-NEW** sous le répertoire **THEMES**
++ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **THEMES**
 
 https://github.com/EdgeTX/edgetx (sous release à droite)
 
 + Download ***edgetx-cpn-win64-v2.8.4.zip*** 
-+ dezipper sous le dossier **SDTX16S-NEW** sous le répertoire **COMPAGNION**
++ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **COMPAGNION**
 + Aller Custom/multilingual builds > Multilingual builds are available 
 + Download ***tx16s-lang-v2.8.4.zip***
-+ dezipper sous le dossier **SDTX16S-NEW** sous le répertoire **FIRMWARE**
++ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **FIRMWARE**
 + garder uniquement le fichier ***tx16s-FR-17692e2.bin***
 
 ## Ecraser la carte SD
+
+**Cette méthode permet d'avoir les nouveautés et des garder tous ses modéles**
 
 + Copier le contenu **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)
 + Copier le contenu **SOUNDS**  sur la carte SD

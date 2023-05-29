@@ -81,3 +81,7 @@ https://downloads.multi-module.org/
 + Switch mal identifier : https://frskytaranis.forumactif.org/t13503-tx16s-sous-edgetx-2-7-1-non-des-interrupteurs-non-affiche
 + autres ....
 
+### URL Bonnes pratiques
+
++ Phase de vol http://rcaerolab.eklablog.com/opentx-la-logique-et-les-bonnes-pratiques-p1241540#Phases%20de%20vol
++ 

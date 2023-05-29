@@ -18,26 +18,27 @@ https://github.com/EdgeTX
 https://github.com/EdgeTX/edgetx-sdcard (sous release à droite)
 
 + Download ***c480x272.zip*** (pour TX16S)
-+ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **CARD-SD**
++ Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **CARD-SD**
 
 https://github.com/EdgeTX/edgetx-sdcard-sounds (sous release à droite)
 
 + Download ***edgetx-sdcard-sounds-fr-2.8.0.zip***
-+ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **SOUNDS**
++ Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **SOUNDS**
 
 https://github.com/EdgeTX/themes (sous release à droite)
 
 + Download ***edgetx-themes.zip*** 
-+ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **THEMES**
++ Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **THEMES**
 
 https://github.com/EdgeTX/edgetx (sous release à droite)
 
 + Download ***edgetx-cpn-win64-v2.8.4.zip*** 
-+ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **COMPAGNION**
++ Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **COMPAGNION**
++ Lancer l'installation du **ficher d'installation de Compagnion sous Windows en mode administrateur**
 + Aller Custom/multilingual builds > Multilingual builds are available 
 + Download ***tx16s-lang-v2.8.4.zip***
-+ dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **FIRMWARE**
-+ garder uniquement le fichier ***tx16s-FR-17692e2.bin***
++ Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **FIRMWARE**
++ Garder uniquement le fichier ***tx16s-FR-17692e2.bin***
 
 ## Ecraser la carte SD
 

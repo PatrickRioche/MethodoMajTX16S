@@ -8,7 +8,7 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 
 + Enveler la carte SD de la TX16S
 + Creer le dossier **SD-TX16S-NEW** sur le bureau
-+ Copier sur contenu de la carte SD de la TX16S dans le dossier **SD-TX16S-NEW** dans un répertoire **SAV-SD-TX16S** sur le bureau
++ Copier sur contenu de la carte SD de la TX16S dans le dossier **SD-TX16S-NEW** dans un répertoire **SAV-SD-TX16S**
 
 ## Aller le GitHub de EdgeTX
 
@@ -41,7 +41,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 
 ## Ecraser la carte SD
 
-**Cette méthode permet d'avoir les nouveautés et des garder tous ses modéles**
+**Cette méthode permet d'avoir les nouveautés et de garder tous ses modéles**
 
 + Copier le contenu **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)
 + Copier le contenu **SOUNDS**  sur la carte SD
@@ -54,7 +54,19 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 
 ## Mettre la carte SD dans la TX16S
 
-+ **T4+POWER+T1**
++ Allumer la TX16S normalement
++ Paramètrage dans Radio Settings > Carte SH
++ Dossier FIRMWARE
++ Cliquer sur le fichier ***tx16s-FR-17692e2.bin***
++ Lancer la mise à jour du  boot load 
++ Eteindre la TX16S
++ Allumer à nouveau la TX16S en appuyant sur le bouton suivant :
++ **T4 + POWER + T1**
++ Dossier FIRMWARE
++ Cliquer sur le fichier ***tx16s-FR-17692e2.bin***
++ Lancer la mise à jour du firmware **par un appui long sur la molette**
++ Attendre que la barre de progression soit verte
++ Cliquer sur Exit pour éteindre la TX16S
 
 ## Mise à du MULTI Module
 
@@ -62,6 +74,7 @@ https://downloads.multi-module.org/
 
 + Download ***mm-stm-serial-taer-v1.3.3.20.bin***
 + Copier le contenu **FIRMWARE**  sur la carte SD
++ lancer la mise à jour **par un appui long sur la molette**
 
 ## Ne pas oublier 
 

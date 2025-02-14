@@ -74,7 +74,9 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 https://downloads.multi-module.org/
 ![image](https://github.com/user-attachments/assets/1e074f9e-d444-420e-af7b-ce042196bdc7)
 
-+ Download ***mm-stm-serial-taer-v1.3.3.20.bin***
+![image](https://github.com/user-attachments/assets/7c73ecab-30c7-4cbd-a2f2-0418e2c19283)
+
++ Download ***mm-stm-serial-taer-air-v1.3.4.31.bin***
 + Copier le contenu **FIRMWARE**  sur la carte SD
 + lancer la mise à jour **par un appui long sur la molette**
 

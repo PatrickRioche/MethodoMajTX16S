@@ -72,6 +72,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 ## Mise à du MULTI Module
 
 https://downloads.multi-module.org/
+![image](https://github.com/user-attachments/assets/1e074f9e-d444-420e-af7b-ce042196bdc7)
 
 + Download ***mm-stm-serial-taer-v1.3.3.20.bin***
 + Copier le contenu **FIRMWARE**  sur la carte SD

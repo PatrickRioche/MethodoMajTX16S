@@ -35,7 +35,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 + Download ***edgetx-cpn-win64-v2.8.4.zip*** 
 + Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **COMPAGNION**
 + Lancer l'installation du **ficher d'installation de Compagnion sous Windows en mode administrateur**
-+ Aller Custom/multilingual builds > Multilingual builds are available 
++ Aller Unofficial builds > Pre-built language firmwares are available here
 + Download ***tx16s-lang-v2.8.4.zip***
 + Dezipper sous le dossier **SD-TX16S-NEW** sous le répertoire **FIRMWARE**
 + Garder uniquement le fichier ***tx16s-FR-17692e2.bin***

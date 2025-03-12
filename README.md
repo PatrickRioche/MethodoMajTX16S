@@ -105,3 +105,4 @@ https://downloads.multi-module.org/
 + Phase de vol :  http://rcaerolab.eklablog.com/opentx-la-logique-et-les-bonnes-pratiques-p1241540#Phases%20de%20vol
 + Télémétrie Vario : https://www.tranquille-modelisme.fr/opentx-telemetrie-variometre.html
 + Tuto Mise à jour EdgeTX 2.X vers 2.8 ( firmware en français et multilangue ) :  https://www.youtube.com/watch?v=63G2ErnIphw
++ Icons TX16S : https://www.skyraccoon.com/

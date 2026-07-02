@@ -41,7 +41,7 @@ https://github.com/EdgeTX/edgetx (sous release à droite)
 + Garder uniquement le fichier ***tx16s-FR-17692e2.bin***
 
 ## Ecraser la carte SD
-
++ Formater une carte SD
 **Cette méthode permet d'avoir les nouveautés et de garder tous ses modéles**
 
 + Copier le contenu **CARD-SD** sur la carte SD ![image](https://github.com/PatrickRioche/MethodoMajTX16S/assets/10467749/169ab892-6f07-4bf6-8ddf-076d735c9330)

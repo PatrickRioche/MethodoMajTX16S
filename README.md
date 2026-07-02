@@ -8,7 +8,7 @@ https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-wr
 
 + Enveler la carte SD de la TX16S
 + Creer le dossier **SD-TX16S-NEW** sur le bureau
-+ Copier sur contenu de la carte SD de la TX16S dans le dossier **SD-TX16S-NEW** dans un répertoire **SAV-SD-TX16S**
++ Copier le contenu de la carte SD de la TX16S dans le dossier **SD-TX16S-NEW** dans un répertoire **SAV-SD-TX16S**
 
 ## Aller le GitHub de EdgeTX
 
